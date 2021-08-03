@@ -39,7 +39,7 @@ Week 2 - PA 2 - Residual Networks
 
 ### Course 5: Sequence Models
 
-Week 1 - PA 1 - Building your Recurrent Neural Network - Step by Step
+Week 1 - PA 1 - [Building your Recurrent Neural Network - Step by Step](https://github.com/ytchuang1018/deep-learning-coursera/blob/main/Sequence%20Models/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
 
 Week 1 - PA 2 - [Dinosaur Island-Character-Level Language Modeling](https://github.com/ytchuang1018/deep-learning-coursera/blob/main/Sequence%20Models/Dinosaurus_Island_Character_level_language_model.ipynb)
 
@@ -47,11 +47,11 @@ Week 1 - PA 3 - [Jazz Improvisation with LSTM](https://github.com/ytchuang1018/d
 
 Week 2 - PA 1 - [Operations on Word Vectors - Debiasing](https://github.com/ytchuang1018/deep-learning-coursera/blob/main/Sequence%20Models/Operations_on_word_vectors_v2a.ipynb)
 
-Week 2 - PA 2 - Emojify
+Week 2 - PA 2 - [Emojify](https://github.com/ytchuang1018/deep-learning-coursera/blob/main/Sequence%20Models/Emoji_v3a.ipynb)
 
 Week 3 - PA 1 - [Neural Machine Translation](https://github.com/ytchuang1018/deep-learning-coursera/blob/main/Sequence%20Models/Neural_machine_translation_with_attention_v4a.ipynb)
 
-Week 3 - PA 2 - Trigger Word Detection
+Week 3 - PA 2 - [Trigger Word Detection](https://github.com/ytchuang1018/deep-learning-coursera/blob/main/Sequence%20Models/Trigger_word_detection_v2a.pdf)
 
 Week 4 - PA 1 - [Transformers Architecture with TensorFlow](https://github.com/ytchuang1018/deep-learning-coursera/blob/main/Sequence%20Models/C5_W4_A1_Transformer_Subclass_v1.ipynb)
 
