@@ -53,5 +53,5 @@ Week 3 - PA 1 - Neural Machine Translation
 
 Week 3 - PA 2 - Trigger Word Detection
 
-Week 4 - PA 1 - Transformers Architecture with TensorFlow
+Week 4 - PA 1 - [Transformers Architecture with TensorFlow](https://github.com/ytchuang1018/deep-learning-coursera/blob/main/Sequence%20Models/C5_W4_A1_Transformer_Subclass_v1.ipynb)
 
