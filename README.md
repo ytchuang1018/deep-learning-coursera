@@ -7,7 +7,7 @@ Programming Assignments
 
 Week 2 - PA 1 - Logistic Regression with a Neural Network mindset
 Week 3 - PA 2 - Planar data classification with one hidden layer
-Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶
+Week 4 - PA 3 - Building your Deep Neural Network: Step by Step
 Week 4 - PA 4 - Deep Neural Network for Image Classification: Application
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
