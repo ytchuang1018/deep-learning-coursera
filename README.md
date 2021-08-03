@@ -41,15 +41,15 @@ Week 2 - PA 2 - Residual Networks
 
 Week 1 - PA 1 - Building your Recurrent Neural Network - Step by Step
 
-Week 1 - PA 2 - Dinosaur Island-Character-Level Language Modeling
+Week 1 - PA 2 - [Dinosaur Island-Character-Level Language Modeling](https://github.com/ytchuang1018/deep-learning-coursera/blob/main/Sequence%20Models/Dinosaurus_Island_Character_level_language_model.ipynb)
 
-Week 1 - PA 3 - Jazz Improvisation with LSTM
+Week 1 - PA 3 - [Jazz Improvisation with LSTM](https://github.com/ytchuang1018/deep-learning-coursera/blob/main/Sequence%20Models/Improvise_a_Jazz_Solo_with_an_LSTM_Network.ipynb)
 
-Week 2 - PA 1 - Operations on Word Vectors - Debiasing
+Week 2 - PA 1 - [Operations on Word Vectors - Debiasing](https://github.com/ytchuang1018/deep-learning-coursera/blob/main/Sequence%20Models/Operations_on_word_vectors_v2a.ipynb)
 
 Week 2 - PA 2 - Emojify
 
-Week 3 - PA 1 - Neural Machine Translation
+Week 3 - PA 1 - [Neural Machine Translation](https://github.com/ytchuang1018/deep-learning-coursera/blob/main/Sequence%20Models/Neural_machine_translation_with_attention_v4a.ipynb)
 
 Week 3 - PA 2 - Trigger Word Detection
 
